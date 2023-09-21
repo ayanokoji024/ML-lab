@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04ca828c-9c3f-4520-8247-2fa778e2d2ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/GMMHMM_classifier.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GaussianHMM_classifier.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultinomialHMM.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2U50vcAukF2ZiO8vlop83KnchVT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ANOMITRO/PycharmProjects/friendly-potato",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04ca828c-9c3f-4520-8247-2fa778e2d2ef" name="Changes" comment="" />
+      <created>1692214365338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692214365338</updated>
+      <workItem from="1692214366742" duration="5133000" />
+      <workItem from="1692966906418" duration="5000" />
+      <workItem from="1693151450420" duration="1209000" />
+      <workItem from="1693679211175" duration="7974000" />
+      <workItem from="1693841701602" duration="13746000" />
+      <workItem from="1694077392640" duration="1730000" />
+      <workItem from="1694358226527" duration="1266000" />
+      <workItem from="1694359555584" duration="4005000" />
+      <workItem from="1694595260072" duration="4279000" />
+      <workItem from="1695288606398" duration="1434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
